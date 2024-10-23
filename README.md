@@ -100,8 +100,3 @@ The profitability of each business segment is also highlighted:
 ## Conclusion
 
 The pivot table analysis provides key insights into O.N.Y Group's performance. It reveals the top-performing countries, products, and segments while showing areas of improvement. Based on the insights, focusing on highly profitable products and segments will be key to maximizing future growth.
-
----
-
-This README provides a clear structure to help understand the performance data and make informed decisions based on pivot table analysis.
-
